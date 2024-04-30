@@ -2,7 +2,7 @@
 
 A Flutter app for refrakt.app
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-30 at 16 06 19](https://github.com/andyepx/refrakt-app/assets/1448720/ef82ad07-1bfc-4a44-bf0e-d2422df5ad14 =x200)
+<img src="https://github.com/andyepx/refrakt-app/assets/1448720/ef82ad07-1bfc-4a44-bf0e-d2422df5ad14" width="200">
 <img src="https://github.com/andyepx/refrakt-app/assets/1448720/b3afd466-cd35-4742-a5fc-45fcf1550515" width="200">
 
 ## Getting Started
